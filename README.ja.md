@@ -120,10 +120,4 @@ Duplicate this frame in Spanish and Korean so I can check the layout
 
 ---
 
-## さらに先へ
-
-このスキルは、AI-slop耐性の高いページ生成、複数レイアウトパターン探索、レイヤー整理、コントラスト/アクセシビリティチェック、トークン化、コンポーネント監査、ALTテキスト提案など21スキルを収録した講座「KMRVID Figma Skills」に、同一内容でそのまま含まれています: [gaspanik.gumroad.com/l/kmrvid-figmaskills](https://gaspanik.gumroad.com/l/kmrvid-figmaskills)
-
----
-
 Built by Masaaki Komori - [@cipher](https://x.com/cipher) · Skill for [Figma](https://www.figma.com/)

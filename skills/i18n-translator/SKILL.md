@@ -13,12 +13,12 @@ description: >-
   the target lacks auto-layout (text-length changes can break the layout
   otherwise), and reminds the user to visually check every duplicated
   frame afterward. Figma Design Agent edition. Part of KMRVID Figma
-  Skills, a 30-skill bundle: kmrvidskills.dev/en/figma/
+  Skills, a 31-skill bundle: kmrvidskills.dev/en/figma/
 ---
 
 # i18n Translator — Figma Multilingual Layout Check (Figma edition)
 
-**Ver:** ver.202610161000
+**Ver:** ver.202610191253
 
 Duplicate the selected FRAME or SECTION once per requested target language, and translate every text node inside each copy — including text nested inside component instances — while leaving the original untouched.
 
